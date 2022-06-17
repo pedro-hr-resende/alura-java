@@ -43,7 +43,6 @@ public class TypeConversion {
 		
 		System.out.println("Float number: " + floatNumber);
 		
-
 	}
 
 }
