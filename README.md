@@ -7,6 +7,7 @@
 <ul>
   <li> Java JRE e JDK: Compile e execute o seu primeiro programa
   <li> Java OO: Entendendo a Orientação a Objetos
+  <li> Java Polimorfismo: Entenda herança e interfaces
 </ul>
 
 <p align="justify">
