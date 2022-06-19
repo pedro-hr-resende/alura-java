@@ -1,7 +1,7 @@
 # Java courses (Alura)
 
 <p align="justify">
-  I decided to improve my object-oriented programming skills and started taking Alura courses. This repository contains all the code I wrote in classes. The courses I have taken are:
+  I decided to improve my object-oriented programming skills and started Alura courses. This repository contains all the code I wrote in classes. The courses I have alredy completed are:
 </p>
 
 <ul>
