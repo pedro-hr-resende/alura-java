@@ -1,4 +1,4 @@
-# Alura's Java courses
+# Java courses (Alura)
 
 <p align="justify">
   I decided to improve my object-oriented programming skills and started taking Alura courses. This repository contains all the code I wrote in classes. The courses I have taken are:
