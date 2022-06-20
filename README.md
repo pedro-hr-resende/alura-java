@@ -8,6 +8,7 @@
   <li> Java JRE e JDK: Compile e execute o seu primeiro programa
   <li> Java OO: Entendendo a Orientação a Objetos
   <li> Java Polimorfismo: Entenda herança e interfaces
+  <li> Java Exceções: Aprenda a criar, lançar e controlar exceções
 </ul>
 
 <p align="justify">
